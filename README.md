@@ -1,1 +1,1 @@
-I upload the DSA problems that I slove.
+I upload the DSA problems I sloved.
